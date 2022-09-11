@@ -26,10 +26,13 @@ height: 25rem;
 .profile-pic{
 
 bottom: 11rem;
-left: 44rem;
+
 position: relative;
 height: 8rem;
 width: 9rem;
+display: block;
+  margin-left: auto;
+  margin-right: auto;
 
 border-radius: 50%;
 }
